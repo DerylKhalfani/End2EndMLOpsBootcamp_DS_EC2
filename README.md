@@ -1,1 +1,3 @@
-# End2EndMLOpsBootcamp_DS_EC2
+# End2EndMLOpsBootcamp_DS
+
+Components (all the modules)
